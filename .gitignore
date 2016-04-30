@@ -2,3 +2,9 @@
 *.swo
 .DS_Store
 cover.png
+env/
+*.pyc
+*.pyo
+__pycache__
+out/
+*.gif
